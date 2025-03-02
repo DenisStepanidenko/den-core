@@ -8,9 +8,16 @@
 
 ## Разделы библиотеки
 - **Структуры данных**
-  - Связный список (LinkedList)
-  - Стек (Stack)
+  - [*Связный список (LinkedList)*](https://github.com/DenisStepanidenko/den-core/tree/master/src/main/java/com/den/DenCore/structures/linkedList)
+  - [*Стек (Stack)*](https://github.com/DenisStepanidenko/den-core/tree/master/src/main/java/com/den/DenCore/structures/stack)
 - **Бинарный поиск**
-  -  Классический бинарный поиск (нахождения элемента в массиве)
-  -  Левый бинарный поиск (нахождения самого первого элемента)
-  -  Правый бинарный поиск (нахождения самого последнего элемента)
+  -  [*Классический бинарный поиск (нахождения элемента в массиве)*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/binpoisk/BinPoisk.java)
+  -  [*Левый бинарный поиск*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/binpoisk/BinPoisk.java)
+  -  [*Правый бинарный поиск*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/binpoisk/BinPoisk.java)
+  -  [*Экспоненциальный поиск*](https://github.com/DenisStepanidenko/den-core/tree/master/src/main/java/com/den/DenCore/algorithms/exponentialsearch)
+  -  [*Тернарный поиск*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/ternarysearch/TernarySearch.java)
+- **Сортировки**
+  - [*Сортировка выбором*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/sorting/Sort.java)
+  - [*Сортировка вставками*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/sorting/Sort.java)
+  - [*Сортировка пузырьком*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/sorting/Sort.java)
+  - [*Сортировка Шелла*](https://github.com/DenisStepanidenko/den-core/blob/master/src/main/java/com/den/DenCore/algorithms/sorting/Sort.java)
