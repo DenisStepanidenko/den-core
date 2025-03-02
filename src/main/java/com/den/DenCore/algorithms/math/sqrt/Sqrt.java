@@ -8,9 +8,7 @@ public class Sqrt {
 
     /**
      * Находит корень числа (ближайшее целое число, которое не превосходит значение корня)
-     *
-     * @param target
-     * @return
+     * Временная сложность алгоритма: O(log(target))
      */
     public static int findMinSqrt(int target) {
 
